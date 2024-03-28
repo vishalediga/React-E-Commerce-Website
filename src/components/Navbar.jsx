@@ -82,7 +82,7 @@ const Navbar = () => {
           <Logo>INSTASHOP.</Logo>
         </Center>
         <Right>
-        <Link to="/home"><MenuItem>HOME</MenuItem></Link>
+        <Link to="/"><MenuItem>HOME</MenuItem></Link>
         
         <Link to="/register"> <MenuItem>REGISTER</MenuItem></Link>
         <Link to="/login"> <MenuItem>SIGN IN</MenuItem></Link>
